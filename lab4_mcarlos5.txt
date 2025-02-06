@@ -1,0 +1,52 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: mcarlos5
+    Linux system name: mcarlos5-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/mcarlos5/ops445/lab4
+    Start at: Wed Feb  5 22:03:04 2025
+=================================================================
+Open System Automation
+OPS445
+445
+Open System Automation OPS445 445
+Line 1
+Line 2
+Line 3
+
+open system automation
+OPEN SYSTEM AUTOMATION
+oPEN sYSTEM aUTOMATION
+Open System Automation
+Open system automation
+open system automation
+['open', 'system', 'automation']
+open
+OPEN
+O
+S
+5
+Open
+OPS
+Automation
+n
+o
+OpenAuto
+OpenAuto
+e
+0 S
+1 e
+2 n
+3 e
+4 c
+5 a
+S
+e
+n
+e
+c
+a
+Seneca contains letter s? -> False
+Seneca contains letter S? -> True
